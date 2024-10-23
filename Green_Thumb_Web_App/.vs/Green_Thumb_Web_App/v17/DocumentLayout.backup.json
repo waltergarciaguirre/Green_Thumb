@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|c:\\users\\walter garciaguirre\\documents\\projects\\walter_garciaguirre_portfolio\\green_thumb\\green_thumb_web_app\\pages\\reminders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|solutionrelative:pages\\reminders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|c:\\users\\walter garciaguirre\\documents\\projects\\walter_garciaguirre_portfolio\\green_thumb\\green_thumb_web_app\\pages\\reminders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|solutionrelative:pages\\reminders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|c:\\users\\walter garciaguirre\\documents\\projects\\walter_garciaguirre_portfolio\\green_thumb\\green_thumb_web_app\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|c:\\users\\walter garciaguirre\\documents\\projects\\walter_garciaguirre_portfolio\\green_thumb\\green_thumb_web_app\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|c:\\users\\walter garciaguirre\\documents\\projects\\walter_garciaguirre_portfolio\\green_thumb\\green_thumb_web_app\\pages\\reminders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|solutionrelative:pages\\reminders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|c:\\users\\walter garciaguirre\\documents\\projects\\walter_garciaguirre_portfolio\\green_thumb\\green_thumb_web_app\\pages\\reminders\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|c:\\users\\walter garciaguirre\\documents\\projects\\walter_garciaguirre_portfolio\\green_thumb\\green_thumb_web_app\\pages\\reminders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|solutionrelative:pages\\reminders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|c:\\users\\walter garciaguirre\\documents\\projects\\walter_garciaguirre_portfolio\\green_thumb\\green_thumb_web_app\\pages\\reminders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|solutionrelative:pages\\reminders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19A3A8B2-113C-4207-A5A1-1AC2E243E0DE}|Green_Thumb_Web_App.csproj|c:\\users\\walter garciaguirre\\documents\\projects\\walter_garciaguirre_portfolio\\green_thumb\\green_thumb_web_app\\pages\\reminders\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,61 +102,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Reminders\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Reminders\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:47:51.919Z",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T18:33:14.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Reminders\\Index.cshtml",
               "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Index.cshtml",
               "RelativeToolTip": "Pages\\Reminders\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-17T15:47:51.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Reminders\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Delete.cshtml",
-              "RelativeToolTip": "Pages\\Reminders\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T15:47:51.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Reminders\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Details.cshtml.cs",
-              "RelativeToolTip": "Pages\\Reminders\\Details.cshtml.cs",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Reminders\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Reminders\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:47:51.483Z"
+              "WhenOpened": "2024-10-17T15:47:51.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Details.cshtml",
               "RelativeDocumentMoniker": "Pages\\Reminders\\Details.cshtml",
@@ -169,18 +158,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Reminders\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Edit.cshtml.cs",
-              "RelativeToolTip": "Pages\\Reminders\\Edit.cshtml.cs",
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Reminders\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Reminders\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T15:47:51.271Z"
+              "WhenOpened": "2024-10-17T15:47:51.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Edit.cshtml",
               "RelativeDocumentMoniker": "Pages\\Reminders\\Edit.cshtml",
@@ -204,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Create.cshtml",
               "RelativeDocumentMoniker": "Pages\\Reminders\\Create.cshtml",
@@ -216,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -224,25 +213,35 @@
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T15:46:24.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T15:46:24.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABqAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Reminders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Reminders\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T18:33:14.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T15:47:51.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Reminders\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Reminders\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:47:51.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Pages\\Reminders\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Reminders\\Delete.cshtml.cs",
