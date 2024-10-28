@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Green_Thumb_Web_App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35704552a82a2cf4547aca84cbac7a93acd81875")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f03052cb2b3b196d439fddcfce5acd8ac24d6c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Green_Thumb_Web_App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Green_Thumb_Web_App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

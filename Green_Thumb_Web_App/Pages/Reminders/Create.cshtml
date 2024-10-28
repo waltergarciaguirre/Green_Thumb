@@ -23,6 +23,14 @@
                 <input asp-for="Reminder.ReminderTime" class="form-control" />
                 <span asp-validation-for="Reminder.ReminderTime" class="text-danger"></span>
             </div>
+            <div class="form-group">
+                <label asp-for="Reminder.IsRecurring">Repeat Reminder</label>
+                <input asp-for="Reminder.IsRecurring" type="checkbox" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Reminder.RecurrenceInterval">Repeat Every (Days)</label>
+                <input asp-for="Reminder.RecurrenceInterval" type="number" class="form-control" />
+            </div>
             <div class="form-group form-check">
                 <label class="form-check-label">
                     <input class="form-check-input" asp-for="Reminder.IsCompleted" /> @Html.DisplayNameFor(model => model.Reminder.IsCompleted)

@@ -35,6 +35,9 @@ namespace Green_Thumb_Web_App.Pages.Reminders
                 return Page();
             }
 
+            //Setting Inital Trigger Time
+            Reminder.NextTriggerTime = Reminder.ReminderTime;
+
             _context.Reminders.Add(Reminder);
             await _context.SaveChangesAsync();
 
