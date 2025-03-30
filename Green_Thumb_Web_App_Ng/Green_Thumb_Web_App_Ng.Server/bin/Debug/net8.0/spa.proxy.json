@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:50270",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Walter Garciaguirre\\source\\repos\\waltergarciaguirre\\Green_Thumb\\Green_Thumb_Web_App_Ng\\Green_Thumb_Web_App_Ng.Server\\..\\green_thumb_web_app_ng.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

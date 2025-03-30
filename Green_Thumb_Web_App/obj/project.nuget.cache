@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9xv5kq+Wzkg=",
+  "dgSpecHash": "W76i389yS1k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Walter Garciaguirre\\Documents\\Projects\\Walter_Garciaguirre_Portfolio\\Green_Thumb\\Green_Thumb_Web_App\\Green_Thumb_Web_App.csproj",
+  "projectFilePath": "C:\\Users\\Walter Garciaguirre\\source\\repos\\waltergarciaguirre\\Green_Thumb\\Green_Thumb_Web_App\\Green_Thumb_Web_App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Walter Garciaguirre\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Walter Garciaguirre\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

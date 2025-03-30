@@ -259,3 +259,15 @@ C:\Users\Walter Garciaguirre\Documents\Projects\Walter_Garciaguirre_Portfolio\Gr
 C:\Users\Walter Garciaguirre\Documents\Projects\Walter_Garciaguirre_Portfolio\Green_Thumb\Green_Thumb_Web_App\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Walter Garciaguirre\Documents\Projects\Walter_Garciaguirre_Portfolio\Green_Thumb\Green_Thumb_Web_App\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Walter Garciaguirre\Documents\Projects\Walter_Garciaguirre_Portfolio\Green_Thumb\Green_Thumb_Web_App\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Walter Garciaguirre\source\repos\waltergarciaguirre\Green_Thumb\Green_Thumb_Web_App\obj\Debug\net8.0\Green_Thumb_Web_App.csproj.AssemblyReference.cache
+C:\Users\Walter Garciaguirre\source\repos\waltergarciaguirre\Green_Thumb\Green_Thumb_Web_App\obj\Debug\net8.0\Green_Thumb_Web_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter Garciaguirre\source\repos\waltergarciaguirre\Green_Thumb\Green_Thumb_Web_App\obj\Debug\net8.0\Green_Thumb_Web_App.AssemblyInfoInputs.cache
+C:\Users\Walter Garciaguirre\source\repos\waltergarciaguirre\Green_Thumb\Green_Thumb_Web_App\obj\Debug\net8.0\Green_Thumb_Web_App.AssemblyInfo.cs
+C:\Users\Walter Garciaguirre\source\repos\waltergarciaguirre\Green_Thumb\Green_Thumb_Web_App\obj\Debug\net8.0\Green_Thumb_Web_App.csproj.CoreCompileInputs.cache
+C:\Users\Walter Garciaguirre\source\repos\waltergarciaguirre\Green_Thumb\Green_Thumb_Web_App\obj\Debug\net8.0\Green_Thumb_Web_App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Walter Garciaguirre\source\repos\waltergarciaguirre\Green_Thumb\Green_Thumb_Web_App\obj\Debug\net8.0\Green_Thumb_Web_App.RazorAssemblyInfo.cache
+C:\Users\Walter Garciaguirre\source\repos\waltergarciaguirre\Green_Thumb\Green_Thumb_Web_App\obj\Debug\net8.0\Green_Thumb_Web_App.RazorAssemblyInfo.cs
+C:\Users\Walter Garciaguirre\source\repos\waltergarciaguirre\Green_Thumb\Green_Thumb_Web_App\obj\Debug\net8.0\Green_Thumb_Web_App.sourcelink.json
+C:\Users\Walter Garciaguirre\source\repos\waltergarciaguirre\Green_Thumb\Green_Thumb_Web_App\obj\Debug\net8.0\Green_Thumb_Web_App.dll
+C:\Users\Walter Garciaguirre\source\repos\waltergarciaguirre\Green_Thumb\Green_Thumb_Web_App\obj\Debug\net8.0\refint\Green_Thumb_Web_App.dll
+C:\Users\Walter Garciaguirre\source\repos\waltergarciaguirre\Green_Thumb\Green_Thumb_Web_App\obj\Debug\net8.0\Green_Thumb_Web_App.pdb

@@ -1,0 +1,6 @@
+@Green_Thumb_Web_App_Ng.Server_HostAddress = http://localhost:5287
+
+GET {{Green_Thumb_Web_App_Ng.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

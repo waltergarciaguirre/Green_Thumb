@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Green_Thumb_Web_App_Ng.Server.props" />
+</Project>
